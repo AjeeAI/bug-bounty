@@ -1,0 +1,11 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+
+# Notice: .env files are NOT ignored for the sake of the bug bounty lab!
